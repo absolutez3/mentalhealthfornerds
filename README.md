@@ -45,7 +45,7 @@ This guide is meant to recommend supplements that have been found to ease some o
 
 	
 
-Depression/Fatigue Supplements:
+##Depression/Fatigue Supplements:
 
 ### Fish Oil
 
