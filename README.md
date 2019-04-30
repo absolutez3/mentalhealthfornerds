@@ -51,8 +51,10 @@ Studies:
 
 ### L-Theanine:
   Dosage: ~200+mg daily
-  Effects: Studies suggest that L-Theanine can encourage a non-sedative relaxation and decrease of generalized anxiety but not anticipatory anxiety. It has also been found to increase cognitive function in people with high anxiety. 
-  Studies:
+ 
+ Effects: Studies suggest that L-Theanine can encourage a non-sedative relaxation and decrease of generalized anxiety but not anticipatory anxiety. It has also been found to increase cognitive function in people with high anxiety. 
+ 
+ Studies:
   - https://doi.org/10.1002/hup.611
   - https://doi.org/10.1016/j.jff.2011.03.009
   - https://doi.org/10.1016/j.biopsycho.2006.06.006
@@ -60,7 +62,7 @@ Studies:
 
 	
 
-##Depression/Fatigue Supplements:
+## Depression/Fatigue Supplements:
 
 ### Fish Oil
 
