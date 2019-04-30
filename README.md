@@ -43,11 +43,13 @@ Studies:
   - https://doi.org/10.1016/j.jad.2016.09.047
 
 ###  Inositol:
-  
   Dosage: 14-18g daily
   
   Effects: Over a month, significant reduction in anxiety and panic attacks. The effects were shown to be similar to prescription medication. Also shown to help with depression, binge eating, bullimia, and fertility.
   
+  Studies :
+  
+ 
 
 ### L-Theanine:
   Dosage: ~200+mg daily
