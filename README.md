@@ -9,14 +9,14 @@ This guide is meant to recommend supplements that have been found to ease some o
 ## Anxiety Supplements:
 
 ###  Kava:
-  Dosage: 300mg daily taking ~100mg three times daily. 300mg at once may act as a sedative.
-  Effects: Multiple studies show significant improvement in anxiety levels over a period of weeks. The anxiolytic (anxiety reducing) effects are even on par with benzodiazepines like Xanax. Some studies also note an increase in subjective well being.
-  Studies:
-  - https://doi.org/10.1007/s002130100792
-  - https://doi.org/10.1078/0944-7113-00369
-  - https://doi.org/10.1007/s00213-009-1549-9
-  - https://doi.org/10.1002/ptr.1422
-  - https://doi.org/10.1055/s-2007-979474
+	  Dosage: 300mg daily taking ~100mg three times daily. 300mg at once may act as a sedative.
+	  Effects: Multiple studies show significant improvement in anxiety levels over a period of weeks. The anxiolytic (anxiety reducing) effects are even on par with benzodiazepines like Xanax. Some studies also note an increase in subjective well being.
+	  Studies:
+	  - https://doi.org/10.1007/s002130100792
+	  - https://doi.org/10.1078/0944-7113-00369
+	  - https://doi.org/10.1007/s00213-009-1549-9
+	  - https://doi.org/10.1002/ptr.1422
+	  - https://doi.org/10.1055/s-2007-979474
   
 
 ###  Ashwaganda Root:
