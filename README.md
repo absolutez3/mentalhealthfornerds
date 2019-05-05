@@ -67,14 +67,14 @@ Studies:
 ## Depression/Fatigue Supplements:
 
 ### Fish Oil
-	Dosage: 1g of EPA a day
+   Dosage: 1g of EPA a day
 	
-	Effects: At 1000mg+ EPA a day there was a decrease comparable to standard antidepressants in people with major depressive disorder. This effect was not observed in people with bipolar or those with minor depression. 
+   Effects: At 1000mg+ EPA a day there was a decrease comparable to standard antidepressants in people with major depressive disorder. This effect was not observed in people with bipolar or those with minor depression. 
 	
-	Studies: 
-	- https://doi.org/10.1111/j.1365-2362.2005.01570.x
-	- https://www.ncbi.nlm.nih.gov/pubmed/12888186
-	- https://www.ncbi.nlm.nih.gov/pubmed/12365878
+   Studies: 
+     - https://doi.org/10.1111/j.1365-2362.2005.01570.x
+     - https://www.ncbi.nlm.nih.gov/pubmed/12888186
+     - https://www.ncbi.nlm.nih.gov/pubmed/12365878
 
 ### Saffron: 
 Dosage: 15mg twice a day
